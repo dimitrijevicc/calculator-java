@@ -1,1 +1,37 @@
+212 LOC zbirno.
 
+Calculator.java:
+*Broj linija koda: 134
+*Klasa 'Calculator' ima 5 metoda: 'calculateIdealWeight',
+'calculateBodyType', 'calculateCalorie', 'getActivity' i 'getHealth'.
+*Metoda 'calculateIdealWeight' koristi formulu za izracunavanje idealne tezine.
+*Metoda 'calculateBodyType' koristi formulu za izracunavanje tipa tela.
+*Metoda 'calculateCalorie' koristi formulu za izracunavanje kalorija.
+*Metoda 'getActivity' vraca aktivnost korisnika.
+*Metoda 'getHealth' vraca zdravlje korisnika.
+
+
+LICENSE:
+*Broj linija koda: 22
+*Fajl 'LICENSE' sadrzi informacije o licenci projekta.
+*Licenca je MIT licenca.
+
+
+Start.java:
+*Broj linija koda: 56
+*Klasa 'Start' ima 1 metod: 'main'.
+*Metoda 'main' pokrece aplikaciju.
+
+
+'Calculator.java-134-Klasa Calculator ima veliki broj metoda koje su povezane sa kalkulatorom.'
+
+'LICENSE-22-Fajl LICENSE sadrzi informacije o licenci projekta.'
+
+'Start.java-56-Klasa Start sadrzi glavni metod koji pokrece aplikaciju.'
+
+
+Preporuke:
+*Razdvojite metode klasa ili pakete.
+*Koristite konstante za formule u metodama 'calculateIdealWeight', 'calculateBodyType' i 'calculateCalorie'.
+*Koristite enum za aktivnost i zdravlje korisnika.
+*Razdvojite fajl 'LICENSE' u posebni direktorijum ili paket.
