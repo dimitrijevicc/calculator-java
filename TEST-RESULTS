@@ -1,0 +1,6 @@
+* Program podrzava jednostavne i slozene aritmeticke izraze
+* Program podrzava decimalne brojeve
+* Program podrzava negativne brojeve
+* Program podrzava nulu
+* Program ne podrzava nepoznate karaktere u izrazu
+* Program izbacuje gresku (ERROR) kada se pojave nepoznati karakteri u izrazu.
