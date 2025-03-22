@@ -4,3 +4,4 @@
 * Program podrzava nulu
 * Program ne podrzava nepoznate karaktere u izrazu
 * Program izbacuje gresku (ERROR) kada se pojave nepoznati karakteri u izrazu.
+
