@@ -1,7 +1,16 @@
 * Program podrzava jednostavne i slozene aritmeticke izraze
 * Program podrzava decimalne brojeve
 * Program podrzava negativne brojeve
-* Program podrzava nulu
 * Program ne podrzava nepoznate karaktere u izrazu
 * Program izbacuje gresku (ERROR) kada se pojave nepoznati karakteri u izrazu.
+* Svi testovi su prosli osim testa 'testDeljenjaSaNulom' koji je vratio rezultat "ERROR" umesto ocekivanog rezultata "Greska"
+
+Zakljucak:  
+Na osnovu rezultata testova, mozemo zakljuciti da je aplikacija funkcionisala kako treba za vecinu testova. Medjutim, postoje neki slucajevi koji nisu obradjeni kako treba, kao sto je deljenje sa nulom.
+
+Preporuke za poboljsanje:
+1. Dodati podrsku za deljenje sa nulom i vracanje greske umesto rezultata "ERROR".
+2. Dodati podrsku za beskonacne brojeve i vracanje rezultata "∞" umesto rezultata "ERROR".
+3. Dodati podrsku za negativne brojeve i vracanje rezultata "∞" umesto rezultata "ERROR".
+4. Dodati podrsku za decimanle brojeve i vracanje rezultata sa decimalnim mestima umesto rezultata "ERROR".
 
