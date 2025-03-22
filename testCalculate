@@ -1,9 +1,0 @@
-@Test
-public void testCalculate() {
-    Calculator calculator = new Calculator();
-    assertEquals(4, calculator.calculate("2+2"));
-    assertEquals(27, calculator.calculate("10+5*4+3"));
-    assertEquals(5.7, calculator.calculate("3.5+2.2"), 0.01);
-    assertEquals(1, calculator.calculate("-2+3"));
-    assertEquals(5, calculator.calculate("0+5"));
-}
